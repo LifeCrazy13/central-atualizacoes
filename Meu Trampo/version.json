@@ -1,0 +1,19 @@
+{
+  "app": "Meu Trampo",
+  "package": "com.motoristacontrole.app.debug",
+  "versionCode": 5,
+  "versionName": "1.3.1",
+  "minSupportedVersionCode": 4,
+  "mandatory": false,
+  "apkUrl": "https://github.com/LifeCrazy13/central-atualizacoes/releases/download/meu-trampo-v1.3.1/MeuTrampo-atualizado-v1.3.1-20261119-v8.apk",
+  "sha256": "95D6C83B64BDF8C079CF26F459BA6BECE642BCDFBA894DCF34C1B4989BAF2EB2",
+  "sizeBytes": 23136431,
+  "publishedAt": "2026-11-19T17:53:13.2224155Z",
+  "notes": [
+    "Dias passados usam o faturamento real do fechamento diario; a meta do mes sobe ou desce pela diferenca.",
+    "Tela de metas reorganizada: resumo e calendario em um unico bloco; acoes no final.",
+    "Termometro da semana alinhado entre meta bruta e saldo do mes no dashboard.",
+    "Barra de progresso do dia com marcacoes 25/50/75/100% e textos maiores.",
+    "Saldo do mes virou calendario mensal com liquido por dia e relatorio de lancamentos."
+  ]
+}
