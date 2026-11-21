@@ -1,20 +1,20 @@
 ﻿{
   "app": "Meu Trampo",
   "package": "com.motoristacontrole.app.debug",
-  "versionCode": 9,
-  "versionName": "1.3.5",
+  "versionCode": 10,
+  "versionName": "1.3.6",
   "minSupportedVersionCode": 7,
   "mandatory": false,
-  "apkUrl": "https://github.com/LifeCrazy13/central-atualizacoes/releases/download/meu-trampo-v1.3.5/MeuTrampo-atualizado-v1.3.5-20261121-v9.apk",
-  "sha256": "7268C0AB5EDF387DE07EAD0CEF991671E415233D938CED9F58E2F814076CFEC8",
-  "sizeBytes": 27187529,
-  "publishedAt": "2026-11-21T22:30:44Z",
+  "apkUrl": "https://github.com/LifeCrazy13/central-atualizacoes/releases/download/meu-trampo-v1.3.6/MeuTrampo-atualizado-v1.3.6-20261121-v10.apk",
+  "sha256": "34ECEB47665F39D65F5A2331597461B4B2B2D3110D4A886877C7B040430F2798",
+  "sizeBytes": 26153546,
+  "publishedAt": "2026-11-21T23:49:14Z",
   "notes": [
-    "Rotina de trabalho com início, pausa, retomada, GPS e flutuante MT opcional.",
-    "Histórico de rotas com calendário, mapa e resumo diário; lacunas não são estimadas.",
-    "Despertador assistido com escolha de música, horário, dias e soneca.",
-    "Ganho bruto por hora, histórico dos valores Uber e atualização dos indicadores.",
-    "Detalhes da semana e composição de custos renovados; despesas previstas podem ser reativadas.",
-    "Atualização opcional: GPS, flutuante e despertador ainda precisam de testes em aparelhos reais."
+    "Atalho de bateria com orientação para Xiaomi/Redmi/POCO; a confirmação depende do Android.",
+    "Detalhes da semana no modelo de Despesas previstas, com resumo expansível por dia.",
+    "Composição de custos com gráfico e cartões expansíveis, sem alterar o planejamento.",
+    "Dias fechados e trabalhados contam na projeção do mês pelo faturamento real.",
+    "Ao ativar ou desativar uma despesa prevista, a meta é atualizada automaticamente.",
+    "Atualização opcional: aparência e permissões ainda precisam de teste em aparelho real."
   ]
 }
