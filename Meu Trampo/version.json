@@ -1,22 +1,20 @@
 ﻿{
-    "app":  "Meu Trampo",
-    "package":  "com.motoristacontrole.app.debug",
-    "versionCode":  8,
-    "versionName":  "1.3.4",
-    "minSupportedVersionCode":  7,
-    "mandatory":  false,
-    "apkUrl":  "https://github.com/LifeCrazy13/central-atualizacoes/releases/download/meu-trampo-v1.3.4/MeuTrampo-atualizado-v1.3.4-20261120-v8.apk",
-    "sha256":  "F7A34DB63F81B7E110658B9966FC2D39BFEC644F6820F68FAC8C7191918768DA",
-    "sizeBytes":  25907342,
-    "publishedAt":  "2026-11-20T09:36:41.5163919Z",
-    "notes":  [
-                  "Check List em 3 etapas com fotos HD do Polo 2019: limpeza e aspirado, agua, oleo e freio, comentario e foto obrigatoria.",
-                  "Despertador com varios alarmes: nome, horario, repeticao por dia da semana, soneca de 10 minutos e alarme do turno.",
-                  "Configuracoes mais limpas: Mais recursos ja abre expandido; Motorista/Veiculo e Despertador em atalhos proprios.",
-                  "Lancamento Diario com inicio e fim por relogio, sem pausas e com hodometro final opcional.",
-                  "Despesas previstas em mapa mental: toque no nome para custo por km, no valor para por mes e por dia, e desative um custo sem apaga-lo.",
-                  "Saldo do mes com calendario compacto e legenda dias pintados = dias trabalhados.",
-                  "Metas: toque em dia fechado para destravar, confirmar e abrir o fechamento daquele dia.",
-                  "Resumo da meta renovado com grafico de progresso, resultado do dia, custo real por km, horas e indicadores."
-              ]
+  "app": "Meu Trampo",
+  "package": "com.motoristacontrole.app.debug",
+  "versionCode": 9,
+  "versionName": "1.3.5",
+  "minSupportedVersionCode": 7,
+  "mandatory": false,
+  "apkUrl": "https://github.com/LifeCrazy13/central-atualizacoes/releases/download/meu-trampo-v1.3.5/MeuTrampo-atualizado-v1.3.5-20261121-v9.apk",
+  "sha256": "7268C0AB5EDF387DE07EAD0CEF991671E415233D938CED9F58E2F814076CFEC8",
+  "sizeBytes": 27187529,
+  "publishedAt": "2026-11-21T22:30:44Z",
+  "notes": [
+    "Rotina de trabalho com início, pausa, retomada, GPS e flutuante MT opcional.",
+    "Histórico de rotas com calendário, mapa e resumo diário; lacunas não são estimadas.",
+    "Despertador assistido com escolha de música, horário, dias e soneca.",
+    "Ganho bruto por hora, histórico dos valores Uber e atualização dos indicadores.",
+    "Detalhes da semana e composição de custos renovados; despesas previstas podem ser reativadas.",
+    "Atualização opcional: GPS, flutuante e despertador ainda precisam de testes em aparelhos reais."
+  ]
 }
