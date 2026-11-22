@@ -1,20 +1,19 @@
-﻿{
+{
   "app": "Meu Trampo",
   "package": "com.motoristacontrole.app.debug",
-  "versionCode": 10,
-  "versionName": "1.3.6",
+  "versionCode": 11,
+  "versionName": "1.3.7",
   "minSupportedVersionCode": 7,
   "mandatory": false,
-  "apkUrl": "https://github.com/LifeCrazy13/central-atualizacoes/releases/download/meu-trampo-v1.3.6/MeuTrampo-atualizado-v1.3.6-20261121-v10.apk",
-  "sha256": "34ECEB47665F39D65F5A2331597461B4B2B2D3110D4A886877C7B040430F2798",
-  "sizeBytes": 26153546,
-  "publishedAt": "2026-11-21T23:49:14Z",
+  "apkUrl": "https://github.com/LifeCrazy13/central-atualizacoes/releases/download/meu-trampo-v1.3.7/MeuTrampo-atualizado-v1.3.7-20261121-v11.apk",
+  "sha256": "48C39C92B78A34FAA48F2D289FD69E6EC7D65F7A27ADE0FF60BAED2C5801944E",
+  "sizeBytes": 26169930,
+  "publishedAt": "2026-11-22T02:02:24Z",
   "notes": [
-    "Atalho de bateria com orientação para Xiaomi/Redmi/POCO; a confirmação depende do Android.",
-    "Detalhes da semana no modelo de Despesas previstas, com resumo expansível por dia.",
-    "Composição de custos com gráfico e cartões expansíveis, sem alterar o planejamento.",
-    "Dias fechados e trabalhados contam na projeção do mês pelo faturamento real.",
-    "Ao ativar ou desativar uma despesa prevista, a meta é atualizada automaticamente.",
-    "Atualização opcional: aparência e permissões ainda precisam de teste em aparelho real."
+    "Rotina e cronômetro compactos ao lado do nome, preservando o painel.",
+    "Indicador vermelho, amarelo ou verde na notificação, atualizado automaticamente conforme a meta bruta por hora.",
+    "Permite iniciar rotina depois do fechamento, sem alterar o fechamento salvo; lançamentos exigem revisão do dia.",
+    "A orientação de bateria desaparece dos controles quando o Android confirma a isenção.",
+    "O disparo do despertador ainda requer teste controlado; o funcionamento no aparelho ainda precisa ser conferido."
   ]
 }
