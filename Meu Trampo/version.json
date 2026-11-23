@@ -1,20 +1,18 @@
 {
   "app": "Meu Trampo",
   "package": "com.motoristacontrole.app.debug",
-  "versionCode": 15,
-  "versionName": "1.4.0",
+  "versionCode": 16,
+  "versionName": "1.4.1",
   "minSupportedVersionCode": 7,
   "mandatory": false,
-  "apkUrl": "https://github.com/LifeCrazy13/central-atualizacoes/releases/download/meu-trampo-v1.4.0/MeuTrampo-atualizado-v1.4.0-20261123-v15.apk",
-  "sha256": "E7042E97A0B71030CF10CA354F49BA6D280C6A5181713C778C68D6E97B447AC4",
-  "sizeBytes": 27874669,
-  "publishedAt": "2026-11-23T17:41:06Z",
+  "apkUrl": "https://github.com/LifeCrazy13/central-atualizacoes/releases/download/meu-trampo-v1.4.1/MeuTrampo-atualizado-v1.4.1-20261123-v16.apk",
+  "sha256": "438BEAD973876830EF96008052362AC586B0CFD2113DFC6481A78B0CC8AB2771",
+  "sizeBytes": 27582682,
+  "publishedAt": "2026-11-23T18:30:00Z",
   "notes": [
-    "Radar MT reorganizado: busca manual, ponto de partida (GPS ou ponto salvo), raio e pontos de apoio.",
-    "Recordes e patentes no painel inicial: melhor dia da semana, dias com meta batida, melhor R$/h e categoria top.",
-    "Uber e 99 passam a atualizar o saldo do dia, preservando horas e histórico dos valores anteriores.",
-    "Flutuante encaixa nas laterais e cronômetro maior; despertador com contagem regressiva.",
-    "Histórico de rotas e Modo Explorador mais estáveis, sem tela preta ao alternar telas.",
-    "Notificação da rotina deduplicada e atualização de saldo com revisões."
+    "Correção da 1.4.0: trajeto real no Modo Explorador em vez de quadrados.",
+    "Rotina alimenta o fechamento do dia: início, horas e km pré-preenchidos.",
+    "Radar com raio de 5 km, contagens por categoria e mapa em tela cheia.",
+    "Histórico e notificações mais estáveis."
   ]
 }
