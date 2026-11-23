@@ -1,20 +1,20 @@
 {
   "app": "Meu Trampo",
   "package": "com.motoristacontrole.app.debug",
-  "versionCode": 13,
-  "versionName": "1.3.8",
+  "versionCode": 14,
+  "versionName": "1.3.9",
   "minSupportedVersionCode": 7,
   "mandatory": false,
-  "apkUrl": "https://github.com/LifeCrazy13/central-atualizacoes/releases/download/meu-trampo-v1.3.8/MeuTrampo-atualizado-v1.3.8-20261122-v13.apk",
-  "sha256": "A3BB2F317E2932593299726F896D87979572C5EBCD5E5F55149361DBCA5B4D5D",
-  "sizeBytes": 26268234,
-  "publishedAt": "2026-11-22T19:12:56Z",
+  "apkUrl": "https://github.com/LifeCrazy13/central-atualizacoes/releases/download/meu-trampo-v1.3.9/MeuTrampo-atualizado-v1.3.9-20261122-v14.apk",
+  "sha256": "6A6DCC92D848CB4B5938716F9BA3AEFCC8979085E7706390859AB8910D87D79A",
+  "sizeBytes": 27902321,
+  "publishedAt": "2026-11-23T01:00:23Z",
   "notes": [
-    "Painel de rotina no cabeçalho com Play/Pausa direto e totais do dia.",
-    "Notificação com indicador da meta e botão para ocultar valores; a tela bloqueada depende das permissões do Android.",
-    "Calendário com valor realizado, estrela para meta atingida e resumo dos dias fechados.",
-    "Semanas expansíveis e ajuste da meta entre dias futuros do mês, com opção de voltar ao normal.",
-    "Histórico com leitura paginada para reduzir a carga; os trajetos originais permanecem salvos.",
-    "O histórico, a notificação na tela bloqueada e o despertador programado ainda precisam de teste no aparelho."
+    "Radar MT com busca manual, até três recomendações e rotas quando disponíveis.",
+    "Modo Explorador com neblina e filtros de período para os trajetos com GPS registrado.",
+    "Pontos salvos, visitados e avaliados, com anotações e navegação externa.",
+    "Atalho no flutuante, ajustes visuais e foto pela câmera no checklist.",
+    "GPS, câmera, mapas, navegação e flutuante ainda precisam de teste em aparelho; o despertador segue sem diagnóstico conclusivo.",
+    "Serviços de mapas dependem de conexão e podem ter informações incompletas; o Radar não prevê corridas nem garante local permitido para parada."
   ]
 }
