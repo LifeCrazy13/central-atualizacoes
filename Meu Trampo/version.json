@@ -1,20 +1,20 @@
 {
   "app": "Meu Trampo",
   "package": "com.motoristacontrole.app.debug",
-  "versionCode": 14,
-  "versionName": "1.3.9",
+  "versionCode": 15,
+  "versionName": "1.4.0",
   "minSupportedVersionCode": 7,
   "mandatory": false,
-  "apkUrl": "https://github.com/LifeCrazy13/central-atualizacoes/releases/download/meu-trampo-v1.3.9/MeuTrampo-atualizado-v1.3.9-20261122-v14.apk",
-  "sha256": "6A6DCC92D848CB4B5938716F9BA3AEFCC8979085E7706390859AB8910D87D79A",
-  "sizeBytes": 27902321,
-  "publishedAt": "2026-11-23T01:00:23Z",
+  "apkUrl": "https://github.com/LifeCrazy13/central-atualizacoes/releases/download/meu-trampo-v1.4.0/MeuTrampo-atualizado-v1.4.0-20261123-v15.apk",
+  "sha256": "E7042E97A0B71030CF10CA354F49BA6D280C6A5181713C778C68D6E97B447AC4",
+  "sizeBytes": 27874669,
+  "publishedAt": "2026-11-23T17:41:06Z",
   "notes": [
-    "Radar MT com busca manual, até três recomendações e rotas quando disponíveis.",
-    "Modo Explorador com neblina e filtros de período para os trajetos com GPS registrado.",
-    "Pontos salvos, visitados e avaliados, com anotações e navegação externa.",
-    "Atalho no flutuante, ajustes visuais e foto pela câmera no checklist.",
-    "GPS, câmera, mapas, navegação e flutuante ainda precisam de teste em aparelho; o despertador segue sem diagnóstico conclusivo.",
-    "Serviços de mapas dependem de conexão e podem ter informações incompletas; o Radar não prevê corridas nem garante local permitido para parada."
+    "Radar MT reorganizado: busca manual, ponto de partida (GPS ou ponto salvo), raio e pontos de apoio.",
+    "Recordes e patentes no painel inicial: melhor dia da semana, dias com meta batida, melhor R$/h e categoria top.",
+    "Uber e 99 passam a atualizar o saldo do dia, preservando horas e histórico dos valores anteriores.",
+    "Flutuante encaixa nas laterais e cronômetro maior; despertador com contagem regressiva.",
+    "Histórico de rotas e Modo Explorador mais estáveis, sem tela preta ao alternar telas.",
+    "Notificação da rotina deduplicada e atualização de saldo com revisões."
   ]
 }
