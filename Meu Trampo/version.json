@@ -1,18 +1,21 @@
 {
   "app": "Meu Trampo",
   "package": "com.motoristacontrole.app.debug",
-  "versionCode": 16,
-  "versionName": "1.4.1",
+  "versionCode": 17,
+  "versionName": "1.4.2",
   "minSupportedVersionCode": 7,
   "mandatory": false,
-  "apkUrl": "https://github.com/LifeCrazy13/central-atualizacoes/releases/download/meu-trampo-v1.4.1/MeuTrampo-atualizado-v1.4.1-20261123-v16.apk",
-  "sha256": "438BEAD973876830EF96008052362AC586B0CFD2113DFC6481A78B0CC8AB2771",
-  "sizeBytes": 27582682,
-  "publishedAt": "2026-11-23T18:30:00Z",
+  "apkUrl": "https://github.com/LifeCrazy13/central-atualizacoes/releases/download/meu-trampo-v1.4.2/MeuTrampo-atualizado-v1.4.2-20261123-v17.apk",
+  "sha256": "BE81A6BC66F38DEFF59E5EE6B3D797D4D7B951DD1AE09B14C86C2596E6F83518",
+  "sizeBytes": 27599066,
+  "publishedAt": "2026-11-23T19:30:00Z",
   "notes": [
-    "Correção da 1.4.0: trajeto real no Modo Explorador em vez de quadrados.",
-    "Rotina alimenta o fechamento do dia: início, horas e km pré-preenchidos.",
-    "Radar com raio de 5 km, contagens por categoria e mapa em tela cheia.",
-    "Histórico e notificações mais estáveis."
+    "Recordes e patentes abaixo do Saldo do Mês.",
+    "Resumo diário no calendário do Saldo do Mês com atalho para rotas.",
+    "Atalho do Radar MT em Configurações.",
+    "Pesquisa de 5 km corrigida.",
+    "Loading durante a busca no Radar.",
+    "Google Maps abre o ponto sem navegar; Waze navega.",
+    "Meta diária em velocímetro."
   ]
 }
