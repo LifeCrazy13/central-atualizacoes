@@ -1,21 +1,22 @@
 {
   "app": "Meu Trampo",
   "package": "com.motoristacontrole.app.debug",
-  "versionCode": 17,
-  "versionName": "1.4.2",
+  "versionCode": 18,
+  "versionName": "1.4.3",
   "minSupportedVersionCode": 7,
   "mandatory": false,
-  "apkUrl": "https://github.com/LifeCrazy13/central-atualizacoes/releases/download/meu-trampo-v1.4.2/MeuTrampo-atualizado-v1.4.2-20261123-v17.apk",
-  "sha256": "BE81A6BC66F38DEFF59E5EE6B3D797D4D7B951DD1AE09B14C86C2596E6F83518",
-  "sizeBytes": 27599066,
-  "publishedAt": "2026-11-23T19:30:00Z",
+  "apkUrl": "https://github.com/LifeCrazy13/central-atualizacoes/releases/download/meu-trampo-v1.4.3/MeuTrampo-atualizado-v1.4.3-20261123-v18.apk",
+  "sha256": "0640B6F1F591B413296F9A99CD05FB469D0374C22881F2B196368BF2309DF5B4",
+  "sizeBytes": 27697370,
+  "publishedAt": "2026-11-24T01:16:53Z",
   "notes": [
-    "Recordes e patentes abaixo do Saldo do Mês.",
-    "Resumo diário no calendário do Saldo do Mês com atalho para rotas.",
-    "Atalho do Radar MT em Configurações.",
-    "Pesquisa de 5 km corrigida.",
-    "Loading durante a busca no Radar.",
-    "Google Maps abre o ponto sem navegar; Waze navega.",
-    "Meta diária em velocímetro."
+    "Dashboard mais compacto: percentual da meta ao lado da Meta Bruta e Líquida Estimada abaixo do Saldo Líquido.",
+    "Saldo do Mês expansível: Receitas, Despesas e Saldo abrem individualmente.",
+    "Resumo do dia trabalhado com fechamento, horas, km, ganhos, gastos, líquido, meta, percentual e observações.",
+    "Histórico de rotas por data sem travar, com cache do dia.",
+    "Radar MT com progresso de 0 a 100%, mapa de salvos e novos tipos de locais.",
+    "Recordes personalizáveis com Top 3 e filtro de período.",
+    "Despertador convencional com volume, tocar no silencioso, vibração e lembretes de meta por alarme.",
+    "Botão flutuante fica onde for solto."
   ]
 }
