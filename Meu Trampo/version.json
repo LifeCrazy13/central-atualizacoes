@@ -1,17 +1,22 @@
 {
   "app": "Meu Trampo",
   "package": "com.motoristacontrole.app.debug",
-  "versionCode": 20,
-  "versionName": "1.4.5",
+  "versionCode": 21,
+  "versionName": "1.4.6",
   "minSupportedVersionCode": 7,
   "mandatory": false,
-  "apkUrl": "https://github.com/LifeCrazy13/central-atualizacoes/releases/download/meu-trampo-v1.4.5/MeuTrampo-atualizado-v1.4.5-20261125-v20.apk",
-  "sha256": "0A3C457DB4C8751ECFB968782276F6071E4B84E83E26F879C56524BA8B00DAD3",
-  "sizeBytes": 28311210,
-  "publishedAt": "2026-11-25T09:50:52Z",
+  "apkUrl": "https://github.com/LifeCrazy13/central-atualizacoes/releases/download/meu-trampo-v1.4.6/MeuTrampo-atualizado-v1.4.6-20261125-v21.apk",
+  "sha256": "5DE8526F9A5C80E95D4BDF22DB7D9CBD8B3A0CCC00FCF60C07A3ED431D48E87F",
+  "sizeBytes": 28343978,
+  "publishedAt": "2026-11-25T23:03:12Z",
   "notes": [
-    "Título e data do dashboard na mesma linha, com mais espaço para os indicadores.",
-    "Painel de rotina mais compacto, mantendo Play/Pause, cronômetro, KM e hora bruta.",
-    "Meta bruta com um único percentual, dentro do medidor circular."
+    "Dashboard: botoes Resumo, Custos e Check List com aparencia de botoes.",
+    "Indicador de porcentagem da meta maior e alinhado a Meta Bruta.",
+    "Logotipo oficial do Meu Trampo na Home.",
+    "Previsao de meta bruta no painel da rotina, com mapa mental ao tocar.",
+    "Saldo do mes com navegacao por deslize entre dias trabalhados.",
+    "Metas reorganizadas e compactadas, com informacoes recolhidas por padrao.",
+    "Radar: correcao de classificacao de casas, apartamentos e condominios; Ir ate la primeiro.",
+    "Historico de rotas: correcao critica do travamento."
   ]
 }
