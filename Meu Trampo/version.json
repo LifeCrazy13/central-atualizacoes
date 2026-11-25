@@ -1,22 +1,18 @@
 {
   "app": "Meu Trampo",
   "package": "com.motoristacontrole.app.debug",
-  "versionCode": 18,
-  "versionName": "1.4.3",
+  "versionCode": 19,
+  "versionName": "1.4.4",
   "minSupportedVersionCode": 7,
   "mandatory": false,
-  "apkUrl": "https://github.com/LifeCrazy13/central-atualizacoes/releases/download/meu-trampo-v1.4.3/MeuTrampo-atualizado-v1.4.3-20261123-v18.apk",
-  "sha256": "0640B6F1F591B413296F9A99CD05FB469D0374C22881F2B196368BF2309DF5B4",
-  "sizeBytes": 27697370,
-  "publishedAt": "2026-11-24T01:16:53Z",
+  "apkUrl": "https://github.com/LifeCrazy13/central-atualizacoes/releases/download/meu-trampo-v1.4.4/MeuTrampo-atualizado-v1.4.4-20261124-v19.apk",
+  "sha256": "B843AB108BDBDBEC1FE02C656BD9BD5557ACC7AB058ED3197FB83A13DF615702",
+  "sizeBytes": 28311210,
+  "publishedAt": "2026-11-25T00:38:56Z",
   "notes": [
-    "Dashboard mais compacto: percentual da meta ao lado da Meta Bruta e Líquida Estimada abaixo do Saldo Líquido.",
-    "Saldo do Mês expansível: Receitas, Despesas e Saldo abrem individualmente.",
-    "Resumo do dia trabalhado com fechamento, horas, km, ganhos, gastos, líquido, meta, percentual e observações.",
-    "Histórico de rotas por data sem travar, com cache do dia.",
-    "Radar MT com progresso de 0 a 100%, mapa de salvos e novos tipos de locais.",
-    "Recordes personalizáveis com Top 3 e filtro de período.",
-    "Despertador convencional com volume, tocar no silencioso, vibração e lembretes de meta por alarme.",
-    "Botão flutuante fica onde for solto."
+    "Novo cabeçalho integrado de rotina e detalhes expansíveis de receitas, despesas e hora bruta.",
+    "Fechamento diário com sugestões de hodômetro a partir da última leitura e da distância registrada.",
+    "Calendário de metas com cores por situação e indicador de ajuste para os dias restantes.",
+    "Radar com ícones por categoria, pesquisa mais leve e opção de cancelar."
   ]
 }
