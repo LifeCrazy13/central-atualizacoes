@@ -1,18 +1,17 @@
 {
   "app": "Meu Trampo",
   "package": "com.motoristacontrole.app.debug",
-  "versionCode": 19,
-  "versionName": "1.4.4",
+  "versionCode": 20,
+  "versionName": "1.4.5",
   "minSupportedVersionCode": 7,
   "mandatory": false,
-  "apkUrl": "https://github.com/LifeCrazy13/central-atualizacoes/releases/download/meu-trampo-v1.4.4/MeuTrampo-atualizado-v1.4.4-20261124-v19.apk",
-  "sha256": "B843AB108BDBDBEC1FE02C656BD9BD5557ACC7AB058ED3197FB83A13DF615702",
+  "apkUrl": "https://github.com/LifeCrazy13/central-atualizacoes/releases/download/meu-trampo-v1.4.5/MeuTrampo-atualizado-v1.4.5-20261125-v20.apk",
+  "sha256": "0A3C457DB4C8751ECFB968782276F6071E4B84E83E26F879C56524BA8B00DAD3",
   "sizeBytes": 28311210,
-  "publishedAt": "2026-11-25T00:38:56Z",
+  "publishedAt": "2026-11-25T09:50:52Z",
   "notes": [
-    "Novo cabeçalho integrado de rotina e detalhes expansíveis de receitas, despesas e hora bruta.",
-    "Fechamento diário com sugestões de hodômetro a partir da última leitura e da distância registrada.",
-    "Calendário de metas com cores por situação e indicador de ajuste para os dias restantes.",
-    "Radar com ícones por categoria, pesquisa mais leve e opção de cancelar."
+    "Título e data do dashboard na mesma linha, com mais espaço para os indicadores.",
+    "Painel de rotina mais compacto, mantendo Play/Pause, cronômetro, KM e hora bruta.",
+    "Meta bruta com um único percentual, dentro do medidor circular."
   ]
 }
