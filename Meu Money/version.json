@@ -1,15 +1,15 @@
 {
     "app":  "Meu Money",
     "package":  "br.com.casanilza.casa_nilza_wagner",
-    "versionCode":  15,
-    "versionName":  "1.3.2",
-    "minSupportedVersionCode":  15,
+    "versionCode":  17,
+    "versionName":  "1.3.4",
+    "minSupportedVersionCode":  17,
     "mandatory":  false,
-    "apkUrl":  "https://github.com/LifeCrazy13/central-atualizacoes/releases/download/meu-money-v1.3.2/MeuMoney-1.3.2.apk",
-    "sha256":  "6fa640526a7418158ed0131d5c209f1d51d56d9470d383400ac78befbc839feb",
-    "sizeBytes":  66070531,
-    "publishedAt":  "2026-11-26T00:51:05Z",
+    "apkUrl":  "https://github.com/LifeCrazy13/central-atualizacoes/releases/download/meu-money-v1.3.4/MeuMoney-1.3.4.apk",
+    "sha256":  "a8523f829a2ff27422e4fa39d1ae76231af17a84bbe7776b9257d35158014747",
+    "sizeBytes":  66218043,
+    "publishedAt":  "2026-11-26T17:22:48Z",
     "notes":  [
-                  "Acertos no fechamento; fechamento reformulado; ate quatro usuarios; fotos camera/galeria; guia pratico; tutorial 1/3; ajuste de receitas; etapas e historico de projetos."
+                  "Acertos no fechamento; fechamento reformulado; ate quatro usuarios; fotos camera/galeria; guia pratico; tutorial 1/3; ajuste de receitas; etapas e historico de projetos; divisao ajustavel; compartilhamento de resumo."
               ]
 }
