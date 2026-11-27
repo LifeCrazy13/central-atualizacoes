@@ -1,22 +1,20 @@
 {
   "app": "Meu Trampo",
   "package": "com.motoristacontrole.app.debug",
-  "versionCode": 21,
-  "versionName": "1.4.6",
+  "versionCode": 22,
+  "versionName": "1.4.7",
   "minSupportedVersionCode": 7,
   "mandatory": false,
-  "apkUrl": "https://github.com/LifeCrazy13/central-atualizacoes/releases/download/meu-trampo-v1.4.6/MeuTrampo-atualizado-v1.4.6-20261125-v21.apk",
-  "sha256": "5DE8526F9A5C80E95D4BDF22DB7D9CBD8B3A0CCC00FCF60C07A3ED431D48E87F",
-  "sizeBytes": 28343978,
-  "publishedAt": "2026-11-25T23:03:12Z",
+  "apkUrl": "https://github.com/LifeCrazy13/central-atualizacoes/releases/download/meu-trampo-v1.4.7/MeuTrampo-atualizado-v1.4.7-20261126-v22.apk",
+  "sha256": "293D6D6A2DC07BB26D3E1227874D30E769D1C6310B92DD0E554F2C3607089416",
+  "sizeBytes": 28425902,
+  "publishedAt": "2026-11-27T01:44:54Z",
   "notes": [
-    "Dashboard: botoes Resumo, Custos e Check List com aparencia de botoes.",
-    "Indicador de porcentagem da meta maior e alinhado a Meta Bruta.",
-    "Logotipo oficial do Meu Trampo na Home.",
-    "Previsao de meta bruta no painel da rotina, com mapa mental ao tocar.",
-    "Saldo do mes com navegacao por deslize entre dias trabalhados.",
-    "Metas reorganizadas e compactadas, com informacoes recolhidas por padrao.",
-    "Radar: correcao de classificacao de casas, apartamentos e condominios; Ir ate la primeiro.",
-    "Historico de rotas: correcao critica do travamento."
+    "Rotina: previsao de faturamento bruto sem repetir o horario.",
+    "Medidor da meta bruta com a porcentagem dentro do indicador.",
+    "Calendario de metas maior; custos e lucro em Ajustes do mes.",
+    "Relatorios reformulados com grade, pizza e indicadores modernos.",
+    "Semana atual clicavel, com numero da semana e detalhes dos 7 dias.",
+    "Tutorial de novidades e Guia pratico atualizados."
   ]
 }
