@@ -1,20 +1,22 @@
 {
   "app": "Meu Trampo",
   "package": "com.motoristacontrole.app.debug",
-  "versionCode": 22,
-  "versionName": "1.4.7",
+  "versionCode": 23,
+  "versionName": "1.4.8",
   "minSupportedVersionCode": 7,
   "mandatory": false,
-  "apkUrl": "https://github.com/LifeCrazy13/central-atualizacoes/releases/download/meu-trampo-v1.4.7/MeuTrampo-atualizado-v1.4.7-20261126-v22.apk",
-  "sha256": "293D6D6A2DC07BB26D3E1227874D30E769D1C6310B92DD0E554F2C3607089416",
-  "sizeBytes": 28425902,
-  "publishedAt": "2026-11-27T01:44:54Z",
+  "apkUrl": "https://github.com/LifeCrazy13/central-atualizacoes/releases/download/meu-trampo-v1.4.8/MeuTrampo-atualizado-v1.4.8-20261127-v23.apk",
+  "sha256": "2C60658B5F9FF1730E76DEC7ACCAD23C5EC4C74CA8C846F5EAA8009F04FE1915",
+  "sizeBytes": 28491518,
+  "publishedAt": "2026-11-28T01:36:41Z",
   "notes": [
-    "Rotina: previsao de faturamento bruto sem repetir o horario.",
-    "Medidor da meta bruta com a porcentagem dentro do indicador.",
-    "Calendario de metas maior; custos e lucro em Ajustes do mes.",
-    "Relatorios reformulados com grade, pizza e indicadores modernos.",
-    "Semana atual clicavel, com numero da semana e detalhes dos 7 dias.",
+    "Flutuante compacto com pausa corrida no campo verde e cronometro proprio.",
+    "Alerta sonoro da pausa configuravel, padrao de 15 minutos.",
+    "Avisos sonoros para passageiros com 4 mensagens e atraso configuravel.",
+    "Configuracoes sonoras em Mais Recursos com volume, mensagens e teste.",
+    "Previsao da rotina com faturamento e termino previstos, atualizada pelas pausas.",
+    "Historico de rotas com mapa corrigido e botao Atualizar trajeto.",
+    "Mapas com gestos de dois dedos e tela cheia no Radar, Historico e Explorador.",
     "Tutorial de novidades e Guia pratico atualizados."
   ]
 }
